@@ -1,0 +1,75 @@
+:root { 
+  --black: #000000;
+  --lima: #76b900;
+  --mountain-mist: #939393;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xl: 30px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 36px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-signika: "Signika", Helvetica;
+}
+.signika-semi-bold-lima-30px {
+  color: var(--lima);
+  font-family: var(--font-family-signika);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.signika-light-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-signika);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-normal-mountain-mist-18px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-black-lima-30px {
+  color: var(--lima);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.signika-light-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-signika);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-normal-mountain-mist-12px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.signika-light-mountain-mist-18px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-signika);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.border-1px-white {
+  border: 1px solid var(--white);
+}

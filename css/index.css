@@ -1,0 +1,2134 @@
+/* screen - index */
+
+.index {
+  background-color: var(--black);
+  height: 1844px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1511px;
+}
+
+.index .header-IO3Fu5 {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1517px;
+}
+
+.index .rectangle-31-74EEvB {
+  background-color: var(--white);
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1511px;
+}
+
+.index .shop-74EEvB {
+  background-color: transparent;
+  height: auto;
+  left: 1081px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 81px;
+}
+
+.index .drivers-74EEvB {
+  background-color: transparent;
+  height: auto;
+  left: 1159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 81px;
+}
+
+.index .support-74EEvB {
+  background-color: transparent;
+  height: auto;
+  left: 1238px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 95px;
+}
+
+.index .x1024px-nvidialogo-1-74EEvB {
+  background-color: transparent;
+  height: 24px;
+  left: 62px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 129px;
+}
+
+.index .nice-pngnvidia-o-png1776479-1-74EEvB {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 34px;
+}
+
+.index .thin-line-user-icon-1-74EEvB {
+  background-color: transparent;
+  height: 29px;
+  left: 1431px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 36px;
+}
+
+.index .x309077searchicon-1-74EEvB {
+  background-color: transparent;
+  height: 29px;
+  left: 1387px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 31px;
+}
+
+.index .page-IO3Fu5 {
+  background-color: transparent;
+  height: 1640px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 1573px;
+}
+
+.index .rectangle-1-DJX0Yv {
+  background-color: var(--black);
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.index .geforce-now-DJX0Yv {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 267px;
+}
+
+.index .membership-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 140px;
+}
+
+.index .download-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 558px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 140px;
+}
+
+.index .games-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 696px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 140px;
+}
+
+.index .support-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 841px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 140px;
+}
+
+.index .blog-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 979px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 140px;
+}
+
+.index .popular-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 571px;
+  width: 164px;
+}
+
+.index .shooter-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 785px;
+  width: 164px;
+}
+
+.index .simulation-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 991px;
+  width: 164px;
+}
+
+.index .adventure-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1204px;
+  width: 164px;
+}
+
+.index .free-to-play-DJX0Yv {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1434px;
+  width: 164px;
+}
+
+.index .ktm-n7fh-search-e-one-clipart-1-DJX0Yv {
+  background-color: transparent;
+  height: 35px;
+  left: 1256px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 35px;
+}
+
+.index .minecraft0-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 27px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 247px;
+}
+
+.index .league-of-legends-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 282px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 610px;
+  width: 247px;
+}
+
+.index .capsule616x353-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 537px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 610px;
+  width: 247px;
+}
+
+.index .header-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 792px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 247px;
+}
+
+.index .image-2-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 247px;
+}
+
+.index .social-share-zeus-s4-wz-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1047px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 247px;
+}
+
+.index .x1bd7bdbd-2dd2-4-6161acca107f-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 27px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 247px;
+}
+
+.index .rainbow-six-sie-e-logo-header-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 282px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 247px;
+}
+
+.index .escape-from-tar-june-29-patch-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 537px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 247px;
+}
+
+.index .call-of-duty-bl-1-05-1360452-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 792px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 247px;
+}
+
+.index .x23b6f32d-f359-4-399cb019c603-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1047px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 247px;
+}
+
+.index .capsule616x353-1-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 247px;
+}
+
+.index .maxresdefault-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 27px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 247px;
+}
+
+.index .download-5-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 282px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 247px;
+}
+
+.index .download-6-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 537px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 247px;
+}
+
+.index .capsule616x353-3-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 792px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 247px;
+}
+
+.index .sid-meiers-civi-i-switch-hero-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1047px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 247px;
+}
+
+.index .capsule616x353-2-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 247px;
+}
+
+.index .capsule616x353-4-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 27px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 247px;
+}
+
+.index .red-dead-redemp-jun18-460x215-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 282px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 247px;
+}
+
+.index .sea-of-thieves-go-compressor-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 537px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 247px;
+}
+
+.index .capsule616x353-5-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 792px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 247px;
+}
+
+.index .x7a06bb40-75a6-4-aa432a2217ec-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1047px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 247px;
+}
+
+.index .header-3-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 247px;
+}
+
+.index .rectangle-116-DJX0Yv {
+  background-color: var(--lima);
+  height: 40px;
+  left: 1309px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 124px;
+}
+
+.index .play-now-DJX0Yv {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-signika);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 1309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 126px;
+}
+
+.index .cara-DJX0Yv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 413px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 1440px;
+}
+
+.index .group-10-DJX0Yv {
+  background-color: transparent;
+  height: 50px;
+  left: 27px;
+  position: absolute;
+  top: 510px;
+  width: 167px;
+}
+
+.index .rectangle-3-x3m9He {
+  background-color: var(--black);
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.index .genres-x3m9He {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 68px;
+}
+
+.index .pngaaa-1-x3m9He {
+  background-color: transparent;
+  height: 8px;
+  left: 141px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 15px;
+}
+
+.index .ey-cz-fzg-xg-a-ax-lu-u-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 27px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 247px;
+}
+
+.index .download-4-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 282px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 247px;
+}
+
+.index .maxresdefault-2-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 537px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 247px;
+}
+
+.index .destiny-2-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 792px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 247px;
+}
+
+.index .ts-apex-legends-ttle-royale0-1-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1047px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 247px;
+}
+
+.index .download-5-2-DJX0Yv {
+  background-color: transparent;
+  height: 165px;
+  left: 1302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 247px;
+}
+
+.index .footer-IO3Fu5 {
+  background-color: transparent;
+  height: 143px;
+  left: 0px;
+  position: absolute;
+  top: 1701px;
+  width: 1517px;
+}
+
+.index .rectangle-30-6isyAT {
+  background-color: var(--white);
+  height: 143px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1511px;
+}
+
+.index .usa-united-states-6isyAT {
+  background-color: transparent;
+  height: auto;
+  left: 1294px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 185px;
+}
+
+.index .copyright-2021-dia-corporation-6isyAT {
+  background-color: transparent;
+  height: auto;
+  left: 233px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 366px;
+}
+
+.index .privacy-policy-ecruity-contact-6isyAT {
+  background-color: transparent;
+  height: auto;
+  left: 222px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: 762px;
+}
+
+.index .rectangle-32-6isyAT {
+  background-color: var(--lima);
+  height: 47px;
+  left: 1448px;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 96px;
+  width: 57px;
+}
+
+.index .white-down-arrow-png-2-1-6isyAT {
+  background-color: transparent;
+  height: 47px;
+  left: 1448px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 57px;
+}
+
+.index .group-11-6isyAT {
+  background-color: transparent;
+  height: 24px;
+  left: 233px;
+  position: absolute;
+  top: 26px;
+  width: 167px;
+}
+
+.index .x1024px-nvidialogo-2-6vEuIL {
+  background-color: transparent;
+  height: 24px;
+  left: 38px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 129px;
+}
+
+.index .nice-pngnvidia-o-png1776479-2-6vEuIL {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+/* screen - phone */
+
+.phone {
+  background-color: transparent;
+  height: 1584px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.phone .phone-CrjqAN {
+  background-color: transparent;
+  height: 1584px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 414px;
+}
+
+.phone .rectangle-123-R08jxZ {
+  background-color: var(--black);
+  height: 1584px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.phone .rectangle-31-R08jxZ {
+  background-color: var(--white);
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.phone .x1024px-nvidialogo-1-R08jxZ {
+  background-color: transparent;
+  height: 24px;
+  left: 144px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 125px;
+}
+
+.phone .nice-pngnvidia-o-png1776479-1-R08jxZ {
+  background-color: transparent;
+  height: 24px;
+  left: 107px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 34px;
+}
+
+.phone .thin-line-user-icon-1-R08jxZ {
+  background-color: transparent;
+  height: 25px;
+  left: 373px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 30px;
+}
+
+.phone .phone-R08jxZ {
+  background-color: transparent;
+  height: 1549px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 426px;
+}
+
+.phone .cara-UgmdWh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 178px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 414px;
+}
+
+.phone .header-UgmdWh {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.phone .rectangle-31-6O8RHA {
+  background-color: var(--black);
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.phone .nice-pngnvidia-o-png1776479-1-6O8RHA {
+  background-color: transparent;
+  height: 24px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.phone .ktm-n7fh-search-e-one-clipart-2-UgmdWh {
+  background-color: transparent;
+  height: 31px;
+  left: 334px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 30px;
+}
+
+.phone .pngkey-2-UgmdWh {
+  background-color: transparent;
+  height: 25px;
+  left: 374px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 34px;
+}
+
+.phone .geforce-now-UgmdWh {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: 170px;
+}
+
+.phone .group-11-UgmdWh {
+  background-color: transparent;
+  height: 50px;
+  left: 13px;
+  position: absolute;
+  top: 229px;
+  width: 136px;
+}
+
+.phone .rectangle-3-5Qp0Gt {
+  background-color: var(--black);
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 134px;
+}
+
+.phone .genres-5Qp0Gt {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 56px;
+}
+
+.phone .pngaaa-1-5Qp0Gt {
+  background-color: transparent;
+  height: 8px;
+  left: 115px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 12px;
+}
+
+.phone .popular-UgmdWh {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 295px;
+  width: 108px;
+}
+
+.phone .minecraft0-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 345px;
+  width: 127px;
+}
+
+.phone .league-of-legends-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 147px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 345px;
+  width: 127px;
+}
+
+.phone .capsule616x353-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 281px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 344px;
+  transition: all 0.2s ease;
+  width: 127px;
+}
+
+.phone .capsule616x353-2-UgmdWh:hover {
+  transform: scale(1.1);
+}
+
+.phone .shooter-UgmdWh {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 490px;
+  width: 108px;
+}
+
+.phone .simulation-UgmdWh {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 696px;
+  width: 155px;
+}
+
+.phone .adventure-UgmdWh {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 909px;
+  width: 143px;
+}
+
+.phone .free-to-play-UgmdWh {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1139px;
+  width: 163px;
+}
+
+.phone .capsule616x353-4-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 960px;
+  width: 127px;
+}
+
+.phone .sea-of-thieves-go-compressor-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 147px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 960px;
+  width: 127px;
+}
+
+.phone .capsule616x353-5-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 281px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 960px;
+  width: 127px;
+}
+
+.phone .ey-cz-fzg-xg-a-ax-lu-u-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1190px;
+  width: 127px;
+}
+
+.phone .ts-apex-legends-ttle-royale0-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 147px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1190px;
+  width: 127px;
+}
+
+.phone .download-4-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 281px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1190px;
+  width: 127px;
+}
+
+.phone .maxresdefault-3-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 751px;
+  width: 127px;
+}
+
+.phone .download-6-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 147px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 751px;
+  width: 127px;
+}
+
+.phone .capsule616x353-3-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 281px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 751px;
+  width: 127px;
+}
+
+.phone .capsule616x353-1-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 127px;
+}
+
+.phone .social-share-zeus-s4-wz-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 147px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 127px;
+}
+
+.phone .rainbow-six-sie-e-logo-header-2-UgmdWh {
+  background-color: transparent;
+  height: 129px;
+  left: 281px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 127px;
+}
+
+.phone .footer-UgmdWh {
+  background-color: transparent;
+  height: 143px;
+  left: 0px;
+  position: absolute;
+  top: 1406px;
+  width: 420px;
+}
+
+.phone .rectangle-30-sxcMd8 {
+  background-color: var(--white);
+  height: 143px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.phone .usa-united-states-sxcMd8 {
+  background-color: transparent;
+  color: var(--mountain-mist);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 81px;
+}
+
+.phone .copyright-2021-dia-corporation-sxcMd8 {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 104px;
+  width: 188px;
+}
+
+.phone .privacy-policy-ecruity-contact-sxcMd8 {
+  background-color: transparent;
+  color: var(--mountain-mist);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  width: 282px;
+}
+
+.phone .group-11-sxcMd8 {
+  background-color: transparent;
+  height: 24px;
+  left: 45px;
+  position: absolute;
+  top: 26px;
+  width: 161px;
+}
+
+.phone .x1024px-nvidialogo-2-W41LxO {
+  background-color: transparent;
+  height: 24px;
+  left: 35px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.phone .nice-pngnvidia-o-png1776479-2-W41LxO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 33px;
+}
+
+.phone .line-8-R08jxZ {
+  background-color: transparent;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 27px;
+}
+
+.phone .line-9-R08jxZ {
+  background-color: transparent;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 16px;
+  width: 27px;
+}
+
+.phone .line-10-R08jxZ {
+  background-color: transparent;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 24px;
+  width: 27px;
+}
+/* screen - tablet */
+
+.tablet {
+  background-color: var(--black);
+  height: 1844px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1018px;
+}
+
+.tablet .group-21-I45tVA {
+  background-color: transparent;
+  height: 1844px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1018px;
+}
+
+.tablet .group-23-GxGZ3k {
+  background-color: transparent;
+  height: 1844px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1018px;
+}
+
+.tablet .rectangle-122-52sBDL {
+  background-color: var(--black);
+  height: 1842px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 946px;
+}
+
+.tablet .header-52sBDL {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 946px;
+}
+
+.tablet .rectangle-31-CwL4z1 {
+  background-color: var(--white);
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 946px;
+}
+
+.tablet .x1024px-nvidialogo-1-CwL4z1 {
+  background-color: transparent;
+  height: 24px;
+  left: 39px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 144px;
+}
+
+.tablet .nice-pngnvidia-o-png1776479-1-CwL4z1 {
+  background-color: transparent;
+  height: 24px;
+  left: 14px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 22px;
+}
+
+.tablet .thin-line-user-icon-1-CwL4z1 {
+  background-color: transparent;
+  height: 32px;
+  left: 894px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 38px;
+}
+
+.tablet .page-52sBDL {
+  background-color: transparent;
+  height: 1640px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 1030px;
+}
+
+.tablet .rectangle-1-bYPxGJ {
+  background-color: var(--black);
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 946px;
+}
+
+.tablet .title-bYPxGJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 255px;
+}
+
+.tablet .popular-bYPxGJ {
+  background-color: transparent;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 571px;
+  width: 108px;
+}
+
+.tablet .shooter-bYPxGJ {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 787px;
+  width: 108px;
+}
+
+.tablet .simulation-bYPxGJ {
+  background-color: transparent;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 991px;
+  width: 153px;
+}
+
+.tablet .adventure-bYPxGJ {
+  background-color: transparent;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1204px;
+  width: 137px;
+}
+
+.tablet .free-to-play-bYPxGJ {
+  background-color: transparent;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1425px;
+  width: 168px;
+}
+
+.tablet .ktm-n7fh-search-e-one-clipart-1-bYPxGJ {
+  background-color: transparent;
+  height: 35px;
+  left: 814px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 34px;
+}
+
+.tablet .minecraft0-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 17px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 164px;
+}
+
+.tablet .league-of-legends-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 610px;
+  width: 163px;
+}
+
+.tablet .capsule616x353-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 352px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 610px;
+  transition: all 0.2s ease;
+  width: 164px;
+}
+
+.tablet .capsule616x353-1-bYPxGJ:hover {
+  transform: scale(1.1);
+}
+
+.tablet .header-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 520px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 163px;
+}
+
+.tablet .image-2-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 855px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 163px;
+}
+
+.tablet .social-share-zeus-s4-wz-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 688px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 163px;
+}
+
+.tablet .x1bd7bdbd-2dd2-4-6161acca107f-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 17px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 164px;
+}
+
+.tablet .rainbow-six-sie-e-logo-header-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 163px;
+}
+
+.tablet .escape-from-tar-june-29-patch-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 352px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 164px;
+}
+
+.tablet .call-of-duty-bl-1-05-1360452-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 520px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 163px;
+}
+
+.tablet .x23b6f32d-f359-4-399cb019c603-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 688px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 163px;
+}
+
+.tablet .capsule616x353-1-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 855px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 820px;
+  width: 163px;
+}
+
+.tablet .maxresdefault-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 17px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 164px;
+}
+
+.tablet .download-5-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 163px;
+}
+
+.tablet .download-6-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 352px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 164px;
+}
+
+.tablet .capsule616x353-3-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 520px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 163px;
+}
+
+.tablet .sid-meiers-civi-i-switch-hero-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 688px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 163px;
+}
+
+.tablet .capsule616x353-2-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 855px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1025px;
+  width: 163px;
+}
+
+.tablet .capsule616x353-4-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 17px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 164px;
+}
+
+.tablet .red-dead-redemp-jun18-460x215-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 163px;
+}
+
+.tablet .sea-of-thieves-go-compressor-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 352px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 164px;
+}
+
+.tablet .capsule616x353-5-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 520px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 163px;
+}
+
+.tablet .x7a06bb40-75a6-4-aa432a2217ec-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 688px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 163px;
+}
+
+.tablet .header-3-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 855px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1241px;
+  width: 163px;
+}
+
+.tablet .cara-bYPxGJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 413px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 947px;
+}
+
+.tablet .group-10-bYPxGJ {
+  background-color: transparent;
+  height: 50px;
+  left: 18px;
+  position: absolute;
+  top: 510px;
+  width: 136px;
+}
+
+.tablet .rectangle-3-LnSbIY {
+  background-color: var(--black);
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 134px;
+}
+
+.tablet .genres-LnSbIY {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 56px;
+}
+
+.tablet .pngaaa-1-LnSbIY {
+  background-color: transparent;
+  height: 8px;
+  left: 114px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 13px;
+}
+
+.tablet .ey-cz-fzg-xg-a-ax-lu-u-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 17px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 164px;
+}
+
+.tablet .download-4-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 163px;
+}
+
+.tablet .maxresdefault-2-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 352px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 164px;
+}
+
+.tablet .destiny-2-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 520px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 163px;
+}
+
+.tablet .ts-apex-legends-ttle-royale0-1-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 688px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 163px;
+}
+
+.tablet .download-5-2-bYPxGJ {
+  background-color: transparent;
+  height: 165px;
+  left: 855px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1475px;
+  width: 163px;
+}
+
+.tablet .footer-52sBDL {
+  background-color: transparent;
+  height: 143px;
+  left: 0px;
+  position: absolute;
+  top: 1701px;
+  width: 952px;
+}
+
+.tablet .rectangle-30-yEluSq {
+  background-color: var(--white);
+  height: 143px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 946px;
+}
+
+.tablet .usa-united-states-yEluSq {
+  background-color: transparent;
+  height: auto;
+  left: 745px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 182px;
+}
+
+.tablet .copyright-2021-dia-corporation-yEluSq {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 230px;
+}
+
+.tablet .privacy-policy-ecruity-contact-yEluSq {
+  background-color: transparent;
+  height: auto;
+  left: 141px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 643px;
+}
+
+.tablet .rectangle-32-yEluSq {
+  background-color: var(--lima);
+  height: 47px;
+  left: 892px;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 96px;
+  width: 45px;
+}
+
+.tablet .white-down-arrow-png-2-1-yEluSq {
+  background-color: transparent;
+  height: 47px;
+  left: 892px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 45px;
+}
+
+.tablet .group-11-yEluSq {
+  background-color: transparent;
+  height: 24px;
+  left: 146px;
+  position: absolute;
+  top: 26px;
+  width: 162px;
+}
+
+.tablet .x1024px-nvidialogo-2-N7Wjyl {
+  background-color: transparent;
+  height: 24px;
+  left: 38px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tablet .nice-pngnvidia-o-png1776479-2-N7Wjyl {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 34px;
+}
+
+.tablet .pngkey-1-52sBDL {
+  background-color: transparent;
+  height: 25px;
+  left: 888px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 34px;
+}
+@media screen and (max-width: 1017px) {
+  .screen.tablet { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1018px) and (max-width: 1510px) {
+  .screen.phone { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1511px) {
+  .screen.tablet { 
+    display: none;
+   }
+  .screen.phone { 
+    display: none;
+   }
+}
+
+#scrollToTopBtn {
+  background-color: #76B900;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 68px;
+  width: 68px;
+float: right;
+}
